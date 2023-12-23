@@ -1,1 +1,1 @@
-Deployed in vercel :- https://promptopia.vercel.app/
+Deployed at vercel :- https://promptopia.vercel.app/
